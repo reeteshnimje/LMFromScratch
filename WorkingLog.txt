@@ -1,0 +1,4 @@
+HPMOR book downloaded from https://github.com/rrthomas/hpmor/releases/tag/v1.2.14
+Figuring out how to convert pdf to txt using chatgpt help. Installing poppler to do it directly through terminal instead of through python. Internet working slow
+
+
